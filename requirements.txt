@@ -1,0 +1,6 @@
+argparse
+csv
+utfdictcsv
+xml
+elementtree
+python-docx
